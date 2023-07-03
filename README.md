@@ -2,6 +2,8 @@
 
 This Python script is designed to convert YouTube timestamps into the JSON-LD format, which is a JSON-based format to serialize Linked Data. The output JSON-LD can be used to improve the SEO of a webpage or a website by providing structured data to search engines.
 
+Colab version: https://colab.research.google.com/drive/1ulPThf4mhC2vzhwybBzNtlGQK16SNq19?usp=sharing
+
 ## Features
 
 - **Time Conversion**: The script can convert time in various formats including 'HH:MM:SS', 'MM:SS', or 'PTxHxMxS' to seconds.
